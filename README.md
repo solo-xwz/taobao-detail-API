@@ -1,4 +1,8 @@
 # taobao product details API
+# 联系：
+- QQ/WECHAT:1218233753
+- telegram:[gosolome](https://t.me/gosolome)
+- Line:[tmapitop](https://line.me/ti/p/0mFrv6cTjO)
 # 返回示例
 ```@json
 {
